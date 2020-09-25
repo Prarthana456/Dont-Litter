@@ -1,1 +1,2 @@
-# Dont-Litter
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
